@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=move
+comment0.target=Bug(boolean)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ canMove()
+comment2.text=\ \ \r\n\ Returns\ true\ if\ the\ Bug\ is\ within\ the\ World's\ borders\r\n
+numComments=3

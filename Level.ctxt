@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Level()
+comment1.params=maze
+comment1.target=void\ buildMaze(java.lang.String)
+comment2.params=
+comment2.target=void\ nextLevel()
+numComments=3
